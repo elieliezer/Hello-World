@@ -1,2 +1,3 @@
 # Hello-World
-My first GitHub repository
+First GitHub repository
+It is now open for new features
